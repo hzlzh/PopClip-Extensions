@@ -13,6 +13,7 @@ Make sure you've installed [PopClip], download the `.popclipextz` or `.popclipex
 PopClip extension to get **IP address** of selected domain link, both `WWW` and `Non-WWW` are supported.  
 
 Download: [GetIP.popclipextz] *(submitting to offical page)*
+Demo video: [http://vine.co/v/b59z06HXmUA](http://vine.co/v/b59z06HXmUA)
 
 ### More Extensions
 (*Coming soon…*)
