@@ -22,6 +22,7 @@ Turns a long URL into a much shorter one.
 
 
 *Download:* [URLShortener.popclipextz] *(submitting to offical page)*  
+*Demo video:* [http://vine.co/v/b59z06HXmUA](http://vine.co/v/bJZjEEwKunz)
 
 Several services are available(Need more? [Contact me]):
 

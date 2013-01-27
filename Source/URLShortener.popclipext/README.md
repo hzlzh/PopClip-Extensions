@@ -14,6 +14,7 @@ Turns a long URL into a much shorter one. Several service are available:
 ## Credit
 Extension and icon created by @[hzlzh](https://twitter.com/hzlzh 'Contact me on Twitter')  
 
+Demo video: [http://vine.co/v/b59z06HXmUA](http://vine.co/v/bJZjEEwKunz)
 
 Post: [http://zlz.im/popclip-extensions/](http://zlz.im/popclip-extensions/)  
 Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
