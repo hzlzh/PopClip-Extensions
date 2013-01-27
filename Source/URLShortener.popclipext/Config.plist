@@ -9,10 +9,8 @@
 			<string>paste-result</string>
 			<key>Image File</key>
 			<string>urlshortener.png</string>
-			<key>Requirements</key>
-			<array>
-				<string>httpurl</string>
-			</array>
+			<key>Regular Expression</key>
+			<string>^.{4,}</string>
 			<key>Script Interpreter</key>
 			<string>/usr/bin/python</string>
 			<key>Shell Script File</key>
