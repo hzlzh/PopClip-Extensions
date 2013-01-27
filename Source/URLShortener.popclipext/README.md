@@ -17,4 +17,7 @@ Extension and icon created by @[hzlzh](https://twitter.com/hzlzh 'Contact me on 
 Demo video: [http://vine.co/v/b59z06HXmUA](http://vine.co/v/bJZjEEwKunz)
 
 Post: [http://zlz.im/popclip-extensions/](http://zlz.im/popclip-extensions/)  
-Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
+Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)  
+
+Screenshot:  
+[!URL-Shortener.png](https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/extra/URL-Shortener.png)
