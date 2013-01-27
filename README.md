@@ -22,7 +22,7 @@ Turns a long URL into a much shorter one.
 
 
 *Download:* [URLShortener.popclipextz] *(submitting to offical page)*  
-*Demo video:* [http://vine.co/v/b59z06HXmUA](http://vine.co/v/bJZjEEwKunz)
+*Demo video:* [http://vine.co/v/bJZjEEwKunz](http://vine.co/v/bJZjEEwKunz)
 
 Several services are available(Need more? [Contact me]):
 
@@ -48,3 +48,6 @@ Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
 [PopClip]: http://pilotmoon.com/popclip/ 'An awesome MacOS app'
 [GetIP.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/GetIP.popclipextz
 [URLShortener.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/URLShortener.popclipextz
+
+Screenshots:  
+![URL-Shortener.png](https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/extra/URL-Shortener.png)
