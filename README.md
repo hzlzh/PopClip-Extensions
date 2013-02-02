@@ -38,6 +38,8 @@ Several services are available(Need more? [Contact me]):
 
 Compose a new tweet using [YoruFukurou]. Also, you can select a username such as @hzlzh to see that user's tweets.
 
+*Download:* [YoruFukurou.popclipextz] *(submitting to offical page)*  
+
 ### More Extensions
 (*Coming soon…*)
 
