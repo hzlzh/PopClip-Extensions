@@ -10,5 +10,5 @@ Post: [http://zlz.im/popclip-extensions/](http://zlz.im/popclip-extensions/)
 Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)  
 
 Screenshot:  
-[YoruFukurou]: https://itunes.apple.com/us/app/yorufukurou/id428834068?mt=12
+[YoruFukurou]: https://itunes.apple.com/us/app/yorufukurou/id428834068?mt=12 'A free Twitter Client for Mac'
 ![YoruFukurou.png](https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/extra/YoruFukurou.png)
