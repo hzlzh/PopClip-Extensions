@@ -38,7 +38,7 @@ Several services are available(Need more? [Contact me]):
 
 Compose a new tweet using [YoruFukurou]. Also, you can select a username such as @hzlzh to see that user's tweets.
 
-*Download:* [YoruFukurou.popclipextz] *(submitting to offical page)*  
+*Download:* [YoruFukurou.popclipextz] *(Offical link)*  
 
 ### More Extensions
 (*Coming soon…*)
@@ -52,7 +52,7 @@ Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
 
 [Contact me]: https://twitter.com/hzlzh 'Contact Me via twitter.'
 [PopClip]: http://pilotmoon.com/popclip/ 'An awesome MacOS app'
-[YoruFukurou]: https://itunes.apple.com/us/app/yorufukurou/id428834068?mt=12 'A free Twitter Client for Mac'
+[YoruFukurou]: http://pilotmoon.com/popclip/extensions/ 'A free Twitter Client for Mac'
 [GetIP.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/GetIP.popclipextz
 [URLShortener.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/URLShortener.popclipextz
 [YoruFukurou.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/YoruFukurou.popclipextz
