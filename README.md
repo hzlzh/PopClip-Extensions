@@ -12,7 +12,7 @@ Make sure you've installed [PopClip], download the `.popclipextz` or `.popclipex
 ### GetIP
 PopClip extension to get **IP address** of selected domain link, both `WWW` and `Non-WWW` are supported.  
 
-*Download:* [GetIP.popclipextz] *(submitting to offical page)*  
+*Download:* [GetIP.popclipextz] *(Included in Offical page)*  
 *Demo video:* [http://vine.co/v/b59z06HXmUA](http://vine.co/v/b59z06HXmUA)
 
 ----
@@ -21,7 +21,7 @@ PopClip extension to get **IP address** of selected domain link, both `WWW` and 
 Turns a long URL into a much shorter one.  
 
 
-*Download:* [URLShortener.popclipextz] *(submitting to offical page)*  
+*Download:* [URLShortener.popclipextz] *(Included in Offical page)*   
 *Demo video:* [http://vine.co/v/bJZjEEwKunz](http://vine.co/v/bJZjEEwKunz)
 
 Several services are available(Need more? [Contact me]):
@@ -38,7 +38,7 @@ Several services are available(Need more? [Contact me]):
 
 Compose a new tweet using [YoruFukurou]. Also, you can select a username such as @hzlzh to see that user's tweets.
 
-*Download:* [YoruFukurou.popclipextz] *(Offical link)*  
+*Download:* [YoruFukurou.popclipextz] *(Included in Offical page)*  
 
 ### More Extensions
 (*Coming soon…*)
@@ -53,9 +53,9 @@ Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
 [Contact me]: https://twitter.com/hzlzh 'Contact Me via twitter.'
 [PopClip]: http://pilotmoon.com/popclip/ 'An awesome MacOS app'
 [YoruFukurou]: http://pilotmoon.com/popclip/extensions/ 'A free Twitter Client for Mac'
-[GetIP.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/GetIP.popclipextz
-[URLShortener.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/URLShortener.popclipextz
-[YoruFukurou.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/YoruFukurou.popclipextz
+[GetIP.popclipextz]: http://pilotmoon.com/popclip/extensions/
+[URLShortener.popclipextz]: http://pilotmoon.com/popclip/extensions/
+[YoruFukurou.popclipextz]: http://pilotmoon.com/popclip/extensions/
 
 Screenshots:  
 ![URL-Shortener.png](https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/extra/URL-Shortener.png)
