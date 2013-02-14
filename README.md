@@ -52,10 +52,10 @@ Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
 
 [Contact me]: https://twitter.com/hzlzh 'Contact Me via twitter.'
 [PopClip]: http://pilotmoon.com/popclip/ 'An awesome MacOS app'
-[YoruFukurou]: http://pilotmoon.com/popclip/extensions/ 'A free Twitter Client for Mac'
-[GetIP.popclipextz]: http://pilotmoon.com/popclip/extensions/
-[URLShortener.popclipextz]: http://pilotmoon.com/popclip/extensions/
-[YoruFukurou.popclipextz]: http://pilotmoon.com/popclip/extensions/
+[YoruFukurou]: https://itunes.apple.com/us/app/yorufukurou/id428834068?mt=12 'A free Twitter Client for Mac'
+[GetIP.popclipextz]: http://pilotmoon.com/popclip/extensions/page/GetIP
+[URLShortener.popclipextz]: http://pilotmoon.com/popclip/extensions/page/ShortenLink
+[YoruFukurou.popclipextz]: http://pilotmoon.com/popclip/extensions/page/YoruFukurou
 
 Screenshots:  
 ![URL-Shortener.png](https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/extra/URL-Shortener.png)
