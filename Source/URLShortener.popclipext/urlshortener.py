@@ -9,7 +9,7 @@ type = os.environ['POPCLIP_OPTION_DOMAIN']
 api = {
 	'bitly' : 'https://api-ssl.bitly.com/v3/shorten?format=json&login=hzlzh&apiKey=R_e8bcc43adaa5f818cc5d8a544a17d27d&longUrl=',
 	'jmp' : 'http://api.j.mp/v3//shorten?format=json&login=hzlzh&apiKey=R_e8bcc43adaa5f818cc5d8a544a17d27d&longUrl=',
-	'tcn' : 'https://api.weibo.com/2/short_url/shorten.json?access_token=2.00WSLtpB0GRHJ9745670860ceNWWiC&url_long=',
+	'tcn' : 'https://api.weibo.com/2/short_url/shorten.json?access_token=2.00WSLtpB0GRHJ9745670860ceNWWiC&source=5786724301&url_long=',
 	'googl' : 'https://www.googleapis.com/urlshortener/v1/url',
 	'isgd' : 'http://is.gd/create.php?format=json&url=',
 	'vgd' : 'http://is.gd/create.php?format=json&url=',
