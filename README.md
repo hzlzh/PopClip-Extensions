@@ -54,7 +54,7 @@ Github: [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions)
 [PopClip]: http://pilotmoon.com/popclip/ 'An awesome MacOS app'
 [YoruFukurou]: https://itunes.apple.com/us/app/yorufukurou/id428834068?mt=12 'A free Twitter Client for Mac'
 [GetIP.popclipextz]: http://pilotmoon.com/popclip/extensions/page/GetIP
-[URLShortener.popclipextz]: http://pilotmoon.com/popclip/extensions/page/ShortenLink
+[URLShortener.popclipextz]: https://github.com/hzlzh/PopClip-Extensions/raw/master/Downloads/URLShortener.popclipextz
 [YoruFukurou.popclipextz]: http://pilotmoon.com/popclip/extensions/page/YoruFukurou
 
 Screenshots:  
