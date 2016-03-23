@@ -18,7 +18,7 @@
 			<key>Title</key>
             <string>URL Shortener</string>
             <key>Regular Expression</key>
-            <string>/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/</string>
+            <string>^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$</string>
 		</dict>
 	</array>
 	<key>Credits</key>
