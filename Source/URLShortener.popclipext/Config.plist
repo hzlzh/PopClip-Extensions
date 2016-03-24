@@ -16,7 +16,9 @@
 			<key>Shell Script File</key>
 			<string>urlshortener.py</string>
 			<key>Title</key>
-			<string>URL Shortener</string>
+            <string>URL Shortener</string>
+            <key>Regular Expression</key>
+            <string>[^\s*]?(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$</string>
 		</dict>
 	</array>
 	<key>Credits</key>
